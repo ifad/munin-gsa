@@ -1,7 +1,7 @@
 Munin - GSA
 ===========
 
-Google Search Appliance SNMP plugin for Munin. SNMP autoconf is
+Google Search Appliance SNMP plugin for Munin 2.0. SNMP autoconf is
 supported, and munin-node-configure works as expected.
 
 APPLICABLE SYSTEMS
